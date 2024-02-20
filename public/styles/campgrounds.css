@@ -1,0 +1,13 @@
+.img-campground-index {
+	float: left;
+	width: 420px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.img-campground-show {
+	float: left;
+	width: 600px;
+	height: 400px;
+	object-fit: cover;
+}
