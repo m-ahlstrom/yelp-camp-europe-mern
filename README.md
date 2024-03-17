@@ -6,7 +6,7 @@
 
 Yelp Camp Europe is a web application built with the MERN stack (MongoDB, Express, React, Node). It is now feature-complete with geo-restriction, user roles, user panels, sorting, pagination and a complete booking system. The original Bootstrap UI was completely replaced with React.
 
-Yelp Camp was originally created for Colt Steele's The Web Developer Bootcamp on Udemy.
+The code in this project is based on the [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) course by Colt Steele from Udemy.
 
 ## Features
 
@@ -26,14 +26,12 @@ Yelp Camp was originally created for Colt Steele's The Web Developer Bootcamp on
 - Express.js: fast, unopinionated, minimalist back-end framework for Node.js.
 - MongoDB: general-purpose document-based NoSQL database.
 - Mongoose: a MongoDB object modeling tool designed to work in an asynchronous environment.
-- EJS: embedded JavaScript templating.
 - Passport.js: simple, unobtrusive authentication for Node.js.
-- rate-limiter-flexible: counts and limits number of actions by key and protects from DDoS and brute force attacks at any scale.
 - Cloudflare Turnstile: a free tool to replace CAPTCHAs.
 - Cloudinary: used as cloud-based storage for images.
 - Mapbox: Google Maps-alternative map-provider.
 - React: the library for web and native user interfaces.
-- Vercel: hosting provider.P
+- Vercel: hosting provider.
 
 ## Run it locally
 
